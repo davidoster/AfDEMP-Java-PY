@@ -20,7 +20,9 @@ public class Execise2 {
         TestMiles tm = new TestMiles();
         System.out.println(tm.nmToKm());
         System.out.println(tm.nmToMiles());
-
+        tm.
     }
+    
+    
 
 }

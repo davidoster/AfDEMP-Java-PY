@@ -15,8 +15,10 @@ public class Exercise4 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int[] myarray = {14, 2, 3, 34, 5, 6, 72, 8, 91, 101, 11};
-
+        int myarray[] = {14, 2, 3, 34, 5, 6, 72, 8, 91, 101, 11};
+        int a[] = new int[10];
+        
+        for(int i = 0; i<=4; i++) a[i] = i+1;
         // first to last
 //        for (int i = 0; i < myarray.length; i++) {
 //            System.out.println(myarray[i]);

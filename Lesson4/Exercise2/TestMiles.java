@@ -8,6 +8,7 @@ package Exercise2;
 /**
  *
  * @author Spyros
+ * fdgdfggffdgfdg
  */
 public class TestMiles {
 

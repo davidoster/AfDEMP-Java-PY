@@ -19,9 +19,14 @@ public class Exercise3 {
         int sum, x;
         x = 1;
         sum = 0;
-        sum += x;
+        
         //or sum = sum + x;
+        for(x = 1; x <= 100; x++) {
+            sum += x;
+        }
         System.out.println("The sum is: " + sum);
+        System.out.println(args[0]);
+        args[0] += args[0];
+        System.out.println(args[0]);
     }
-
 }
