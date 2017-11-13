@@ -1,0 +1,9 @@
+Create a simple Java application where :
+a. asks from the user his last name, first name, father's name
+b. asks for his date of birth
+c. create a file with filename = lastname.firstname.txt
+d. write inside the file the following lines:
+
+Line 1: Last Name, First Name, Father's Name
+Line 2: Date of Birth in the format DD/MM/YYYY
+Line 3: The age of this person
