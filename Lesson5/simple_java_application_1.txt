@@ -4,6 +4,9 @@ b. asks for his date of birth
 c. create a file with filename = lastname.firstname.txt
 d. write inside the file the following lines:
 
+"
 Line 1: Last Name, First Name, Father's Name
 Line 2: Date of Birth in the format DD/MM/YYYY
 Line 3: The age of this person
+"
+The Line 1, Line 2, Line 3 literals must be written in the file using a for loop.
