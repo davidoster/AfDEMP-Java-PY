@@ -1,0 +1,3 @@
+Line 1: Last Name: Pasparakis, First Name: George, Father's Name: John
+Line 2: Your birthday is on: Sat Jan 01 00:00:00 EET 2000
+Line 3: Your age is 17

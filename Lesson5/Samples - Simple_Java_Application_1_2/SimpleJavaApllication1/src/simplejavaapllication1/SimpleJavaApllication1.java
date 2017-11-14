@@ -15,12 +15,13 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+
 /**
  *
  * @author davidoster
  */
 public class SimpleJavaApllication1 {
-    protected static int year = 0;
+    static int year = 0;
 
     public static void main(String[] args) {
         // code from https://github.com/alekarios/JAVA_homeworks/blob/master/lesson5/Java_simple_app_1.java - MODIFIED
