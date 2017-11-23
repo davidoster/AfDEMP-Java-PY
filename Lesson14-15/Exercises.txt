@@ -1,0 +1,7 @@
+Using salesDB.sql solve the following exercises:
+Exercise 1:  Find and display the average cost of the sales that took place in 1992 
+Exercise 2:  Display the customers that have bought 3-7 HDDs  
+Exercise 3:  Display the product description and the average pieces being sold  
+Exercise 4:  Display the salesmen that have commission larger than 0.15, smaller that 0.18 but not equal to 0.165 
+Exercise 5:  Display the salesmen that have more than 2 family members 
+Exercise 6:  Display the code and the total profit of each product if the total profit is above  1500 
