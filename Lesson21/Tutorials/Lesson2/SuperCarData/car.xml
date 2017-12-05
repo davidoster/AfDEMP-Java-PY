@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<car>
+	<brand>Ferrari</brand>
+	<model>F430</model>
+	<maxSpeed>330</maxSpeed>
+	<currentSpeed>0</currentSpeed>
+	<isStarted>false</isStarted>
+	<maxMonthlySpeeds>
+		<speed year="2017" month="January">250</speed>
+		<speed year="2017" month="February">300</speed>
+		<speed year="2017" month="March">278.5</speed>
+	</maxMonthlySpeeds>
+</car>

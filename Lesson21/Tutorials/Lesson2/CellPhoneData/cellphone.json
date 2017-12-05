@@ -1,0 +1,8 @@
+{
+	"Brand": "Samsung",
+	"Model": "Galaxy S8",
+	"Cores": 8,
+	"StorageGB": 64,
+	"ScreenSizeInches": 5.8,
+	"Features": ["SMS", "MMS", "Email", "Push", "Mail", "IM"]
+}

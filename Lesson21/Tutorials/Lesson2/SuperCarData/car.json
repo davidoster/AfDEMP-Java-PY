@@ -1,0 +1,28 @@
+{
+
+	"brand": "Ferrari",
+	"model": "F430",
+	"maxSpeed": 330,
+	"currentSpeed": 0,
+	"isStarted": false,
+	"maxMonthlySpeeds":
+	[
+		{
+			"year": "2017",
+			"month": "January",
+			"speed": 250
+		},
+		{
+			"year": "2017",
+			"month": "February",
+			"speed": 300
+		},
+		{
+			"year": "2017",
+			"month": "March",
+			"speed": 278.5
+		}
+	]
+
+
+}
