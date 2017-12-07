@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.6/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
+  
+	<style>
+		.card
+		{
+			margin: 1%;
+		}
+	</style>
+
+<!--[if gte mso 9]><xml>
+<mso:CustomDocumentProperties>
+<mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Editor msdt:dt="string">Gavana, Anastasia</mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Editor>
+<mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Author msdt:dt="string">Gavana, Anastasia</mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_Author>
+</mso:CustomDocumentProperties>
+</xml><![endif]-->
+</head>
+<body>
+	<header>
+		<div class="jumbotron text-center">
+			<h1>MY Info And CUDA Informations</h1>      
+		</div>
+	</header>
+
+	<div class="container-fluid">
+		<div class="row content">
+			<div id="content" class="col-sm-12">
+				<div class="card" id="personalInfo">
+					<div class="card-body">
+						<div class="row">
+							<div><img src="https://placehold.it/150x80?text=IMAGE" class="rounded" alt="Cinque Terre"></div>
+							<div class="col-sm-10">
+								<h2>John Doe</h2>
+								<h5 class="text-success">Software Engineer</h5>
+								<p>4 some address<br>
+								City, ST 71303 <br>
+								phone number <br>
+								name@gmail.com <br></p>
+							</div>
+						</div>
+					</div>
+				</div>	
+
+				<div class="card" id="skills">
+					<div class="card-body">
+						<h4 class="text-success">My Paragraph</h4>
+						<blockquote>
+							<p>
+							   <abbr title="Compute Unified Device Architecture">CUDA</abbr> is a parallel computing platform and application programming interface (API) model created by Nvidia.
+							   It allows software developers and software engineers to use a CUDA-enabled graphics processing unit (GPU) for general purpose processing – an approach termed GPGPU (<small>General-Purpose computing on Graphics Processing Units</small>). 
+							   The <abbr title="Compute Unified Device Architecture">CUDA</abbr> platform is a software layer that gives direct access to the GPU's virtual instruction set and parallel computational elements, for the execution of compute kernels.	   
+							   <dl>
+									<dt>The <abbr title="Compute Unified Device Architecture">CUDA</abbr> platform is designed to work with programming languages such as:  </dt>
+									<dd>- C, C++, and Fortran.</dd>
+									<dt>This accessibility makes it easier for specialists in parallel programming to use GPU resources, in contrast to prior APIs like: </dt>
+									<dd>- Direct3D and OpenGL</dd>
+							   </dl>     
+							   which required advanced skills in graphics programming. 
+							   Also, <abbr title="Compute Unified Device Architecture">CUDA</abbr> supports programming frameworks such as OpenACC and OpenCL. When it was first introduced by Nvidia, the name <abbr title="Compute Unified Device Architecture">CUDA</abbr> was an acronym for Compute Unified Device Architecture, but Nvidia subsequently dropped the use of the acronym.
+							</p>
+							<h3>Advantages</h3>
+							<p>CUDA has several advantages over traditional general-purpose computation on GPUs (GPGPU) using graphics APIs:</p>
+							<ul class="list-group">
+							  <li class="list-group-item">Scattered reads – code can read from arbitrary addresses in memory</li>
+							  <li class="list-group-item">Unified virtual memory (CUDA 4.0 and above)</li>
+							  <li class="list-group-item">Shared memory – CUDA exposes a fast shared memory region that can be shared among threads. This can be used as a user-managed cache, enabling higher bandwidth than is possible using texture lookups.</li>
+							  <li class="list-group-item">Unified memory (CUDA 6.0 and above)</li>
+							  <li class="list-group-item">Faster downloads and readbacks to and from the GPU</li>
+							  <li class="list-group-item">Full support for integer and bitwise operations, including integer texture lookups</li>
+							</ul>
+							<br>
+							<footer class="blockquote-footer">en.wikipedia.org/wiki/CUDA</footer>
+						</blockquote>
+					</div>
+				</div>
+			</div>			
+			</div>
+		</div>
+	</div>	
+
+</body>
+</html>
