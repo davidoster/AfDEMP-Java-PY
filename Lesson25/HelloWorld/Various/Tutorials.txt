@@ -1,3 +1,4 @@
 http://www.vogella.com/tutorials/JavaWebTerminology/article.html
 https://www.developer.com/java/ejb/a-step-by-step-guide-to-creating-netbeans-web-apps.html
 http://web-engineering.info/tech/JavaJpaJsfApp/minimal-tutorial.pdf
+https://github.com/vogellacompany/codeexamples-javaweb
