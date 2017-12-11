@@ -27,3 +27,5 @@ https://netbeans.org/kb/docs/web/hibernate-webapp.html
 https://www.journaldev.com/3524/spring-hibernate-integration-example-tutorial
 
 https://www.journaldev.com/3531/spring-mvc-hibernate-mysql-integration-crud-example-tutorial
+
+http://www.javaguicodexample.com/javawebmysqljspjstljsf5.html
