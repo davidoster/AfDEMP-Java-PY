@@ -13,3 +13,4 @@ Follow these instructions:
 	4.b. https://netbeans.org/kb/docs/web/hibernate-webapp.html
 	4.c. https://www.journaldev.com/3524/spring-hibernate-integration-example-tutorial
 	4.d. https://www.journaldev.com/3531/spring-mvc-hibernate-mysql-integration-crud-example-tutorial
+	4.e. https://netbeans.org/kb/docs/websvc/rest.html
