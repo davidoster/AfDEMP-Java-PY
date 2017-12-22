@@ -1,0 +1,2 @@
+https://www.journaldev.com/2008/async-servlet-example
+https://www.journaldev.com/1997/servlet-jdbc-database-connection-example
