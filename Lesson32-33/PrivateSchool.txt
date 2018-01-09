@@ -1,0 +1,24 @@
+Private School
+Departments (3), 
+Dept1..Dept3
+
+Classes, 
+Dept1.Class1..Dept1.Class2, 
+Dept2.Class1, 
+Dept3.Class1..Dept3.Class4
+
+Students, 
+Dept1.Class1.Student1..Dept1.Class1.Student10, 
+Dept1.Class2.Student1..Dept1.Class2.Student4, 
+
+Dept2.Class1.Student1..Dept2.Class1.Student4
+
+Dept3.Class1.Student1..Dept3.Class1.Student7, 
+Dept3.Class2.Student1..Dept3.Class2.Student4,
+Dept3.Class3.Student1..Dept3.Class3.Student12,
+Dept3.Class4.Student1..Dept3.Class4.Student12,
+
+
+
+Dept1.Class2.Student1..Dept1.Class2.Student4 == Dept2.Class1.Student1..Dept2.Class1.Student4 == Dept3.Class2.Student1..Dept3.Class2.Student4
+Dept3.Class3.Student1..Dept3.Class3.Student12 == Dept3.Class4.Student1..Dept3.Class4.Student12
