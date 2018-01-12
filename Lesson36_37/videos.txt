@@ -1,0 +1,4 @@
+<video height="600" width="700" controls>
+<source src=https://vm.reuters.tv/83b05/199549_SHORT_POPE_REFUGEES(199553_R21MP45000).mp4 type="video/mp4">
+<source src=http://techslides.com/demos/sample-videos/small.ogv type="video/ogg">
+</video>
