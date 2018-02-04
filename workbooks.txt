@@ -1,0 +1,128 @@
+01_IntroductoryLessons_StudentWorkbook_Common
+Lesson 1 & 2
+Introduction to Programming
+
+02_Java_Lessons3-4-5_StudentWorkbook
+Lesson 3, 4 & 5
+Object Oriented Programming
+
+03_Java_Lesson6-7_StudentWorkbook
+Lesson 6 & 7
+Object Oriented Programming
+
+
+04_Java_Lesson8-9_StudentWorkbook
+Lesson 8 & 9
+Object Oriented Programming
+
+05_Java_Lesson10-11_StudentWorkbook
+Lesson 10 & 11
+Object Oriented Programming
+
+06_Java_CommonTesting_Lesson_StudentWorkbook
+Common Lesson
+Software Testing & Debugging
+
+07_Common_GIT_StudentWorkbook
+Common Lesson
+Developer Tools
+2.1.6 Understand and use Github
+2.1.7 Understand and use GIT-Version Control
+
+08_Java_SQL_Lesson1_StudentWorkbook
+SQL – Lesson 1
+Relational Databases
+
+09_Java_SQL_Lessons2-3_StudentWorkbook
+SQL – Lessons 2-3
+Relational Databases
+
+10_Java_SQL_Lessons4-5_StudentWorkbook
+SQL – Lessons 4-5
+Relational Databases
+
+11_Java_Lesson12_StudentWorkbook
+Lessons 12-13
+Connect to a Database
+
+12_Common_HTML-CSS_StudentWorkbook
+HTML / CSS
+Common Lesson
+
+13_Common_JavaScript_StudentWorkbook
+JavaScript
+Common Lesson
+
+14_Common_jQuery_StudentWorkbook
+jQuery
+Common Lesson
+
+15_Common_BootStrap_StudentWorkbook
+Bootstrap
+Common Lesson
+
+16_Java_MainCode_UI-UX_SoftSkills_StudentWorkbook
+Common Lesson
+Code Style Guidelines (3.13.1)
+UI/UX - Usability (8.1 -8.2)
+Interpersonal Skills (9.1)
+
+17_Java_WebHosting_StudentWorkbook
+Common Lesson
+Web Publishing & Hosting (4.9.1-4.9.8)
+
+18_Java_MVC_PartI_StudentWorkbook
+Common Lesson
+Web Application Development
+MVC - Part I (6.1 - 6.2)
+
+19_Java_MVC_PartII_StudentWorkbook
+Common Lesson
+Web Application Development
+MVC - Part II (6.1 - 6.5)
+
+20_Java_OOO_DesignPatterns_StudentWorkbook
+Lesson 30 & 31
+Object Oriented Programming
+Design Patterns
+
+21_Java_OOO_WritingMaintainableCode_Adv_StudentWorkbook
+Lesson 32 & 33
+Object Oriented Programming
+Writing Maintainable Code
+
+22_Java_OOO_Algorithms_Adv_StudentWorkbook
+Lesson 34 & 35
+Object Oriented Programming
+Algorithms, Data Structures,
+and other Topics
+
+23_Common_WebDevelopment_HTML-CSS-XML_Adv_StudentWorkbook
+HTML / CSS / XML
+(Advanced)
+Common Lesson
+
+24_Common_WebDevelopment_JavaScript-jQuery_Adv_StudentWorkbook
+Common Lessons
+Web Development
+JavaScript & jQuery
+(Advanced)
+
+25_Java_WebPublishing_Adv_StudentWorkbook
+Common Lessons
+Web Application Development
+Web Publishing, User Accounts & APIS
+
+26_Java_Testing_Adv_StudentWorkbook
+Common Lessons
+Software Testing & Debugging
+(Advanced)
+
+
+29_Common_DevSoftSkills_Scrum_Adv_StudentWorkbook_FINAL
+Common Lessons
+Developer Soft Skills & Teamwork
+9.2 Scrum
+9.3 ITSM
+(Advanced)
+
